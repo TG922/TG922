@@ -20,19 +20,19 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://www.linkedin.com/in/aakash9868sinha/">
+<a href="https://www.linkedin.com/in/tg/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/isupersky">
+<a href="https://twitter.com/tg">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:mailtomeaakash@gmail.com">
+<a href="mailto:mailtome456gaurtarun@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
+<a href="tg">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://isupersky.medium.com/">
+<a href="https://TG922.github.io/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
