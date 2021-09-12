@@ -106,6 +106,7 @@ Here are some ideas to get you started:
 🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
+<br>
 
 - 👨‍💻 You can also check out my portfolio at [https://TG922.github.io/](https://TG922.github.io/)
 
