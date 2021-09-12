@@ -123,12 +123,12 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TG922&show_icons=true&locale=en" alt="TG922" /></p>
 
-<!--
-### 📕 Blog Posts
+
+<!-- ### 📕 Blog Posts
 - [React-Redux : A basic intro for Back-end developers](https://isupersky.medium.com/react-redux-intro-for-back-end-developers-5113c0a498a9)
 - [Add a README for your profile : GitHub feature](https://isupersky.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
 <br/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)-->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky) -->
 
 
