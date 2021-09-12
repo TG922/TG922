@@ -1,3 +1,5 @@
+<!--[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://TG922.github.io)-->
+
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Tarun Gaur!](https://www.linkedin.com/in/tg) 
 <h3 align="center">A Guy trying to Figure-Out Stuff!!</h3>
 
