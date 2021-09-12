@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aakash Sinha!](https://www.linkedin.com/in/aakash9868sinha/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Tarun Gaur!](https://www.linkedin.com/in/tg) 
 <h3 align="center">A Guy trying to Figure-Out Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TG922&label=Profile%20views&color=129e00&style=plastic" alt="TG922" /> </p>
