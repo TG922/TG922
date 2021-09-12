@@ -61,8 +61,7 @@ Here are some ideas to get you started:
 
 
 
-[![MasterHead](https://media-exp3.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1631750400&v=beta&t=0LohX99JFWfYQy8ZEmLiw3vcqpkR56mig0tvJ7gfNOM)](https://TG922.github.io)
-<h1 align="center">Hi 👋, I'm Tarun Gaur</h1>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aakash Sinha!](https://www.linkedin.com/in/aakash9868sinha/) 
 <h3 align="center">A Guy trying to Figure-Out Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TG922&label=Profile%20views&color=129e00&style=plastic" alt="TG922" /> </p>
