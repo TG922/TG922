@@ -21,26 +21,27 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.linkedin.com/in/tg/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="TG922" height="30" width="40" />
 </a>
 <a href="https://twitter.com/tg">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="TG922" height="30" width="40" />
 </a>
 <a href="mailto:mailtome456gaurtarun@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="TG922" height="30" width="40" />
 </a>
-<a href="tg">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+
+<a href="https://instagram.com/tg">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="TG922" height="30" width="40" />
 </a>
+
 <a href="https://TG922.github.io/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="TG922" height="30" width="40" />
 </a>
 <br />
 
 
-
 ### About Me 🚀
-🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
+🌱 I’m a Front end developer and currently learning reactjs. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 <br>
