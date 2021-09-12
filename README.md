@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Familiar with</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
