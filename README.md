@@ -64,6 +64,25 @@ Here are some ideas to get you started:
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Tarun Gaur!](https://www.linkedin.com/in/tg) 
 <h3 align="center">A Guy trying to Figure-Out Stuff!!</h3>
 
+<a href="https://www.linkedin.com/in/aakash9868sinha/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/isupersky">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:mailtomeaakash@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://isupersky.medium.com/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
+<br />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TG922&label=Profile%20views&color=129e00&style=plastic" alt="TG922" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
@@ -81,6 +100,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me 🚀
+🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
+👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 
 - 👨‍💻 You can also check out my portfolio at [https://TG922.github.io/](https://TG922.github.io/)
