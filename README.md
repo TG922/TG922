@@ -79,6 +79,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me **456gaurtarun@gmail.com**
 
 <!--- ⚡ Fun fact **I think I am funny XD**-->
+- 💬 Ask me about **anything you want.**
+  
 
 
 <!--<h3 align="left">Languages and Tools:</h3>
@@ -108,3 +110,15 @@ Here are some ideas to get you started:
 
 
 
+
+### Blogs posts
+- [Introduction To Artificial Intelligence](https://kishan-rai99693.medium.com/introduction-to-artificial-intelligence-ab5caa846752?source=rss-798a94539838------2)
+- [Day 4 of 30 Days of Code at HackerRank](https://kishan-rai99693.medium.com/day-4-of-30-days-of-code-at-hackerrank-abaa125bbb14?source=rss-798a94539838------2)
+- [Day 3 of 30 Days of Code at HackerRank](https://kishan-rai99693.medium.com/day-3-of-30-days-of-code-at-hackerrank-1464a59d106b?source=rss-798a94539838------2)
+- [Day 2 of 30 Days of Code at HackerRank](https://kishan-rai99693.medium.com/day-2-of-30-days-of-code-at-hackerrank-e2fa2d2912f2?source=rss-798a94539838------2)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishanrajput23&show_icons=true&locale=en&layout=compact" alt="kishanrajput23" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishanrajput23&show_icons=true&locale=en" alt="kishanrajput23" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishanrajput23&" alt="kishanrajput23" /></p>
