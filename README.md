@@ -26,9 +26,9 @@ Here are some ideas to get you started:
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="TG922" height="30" width="40" />
 </a>
 
-<!--<a href="https://twitter.com/tg">
+<a href="https://twitter.com/TarunGa32392635">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="TG922" height="30" width="40" />
-</a>-->
+</a>
 
 <a href="mailto:mailtome456gaurtarun@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="TG922" height="30" width="40" />
