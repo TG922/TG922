@@ -117,4 +117,4 @@ Here are some ideas to get you started:
 - [Day 3 of 30 Days of Code at HackerRank](https://kishan-rai99693.medium.com/day-3-of-30-days-of-code-at-hackerrank-1464a59d106b?source=rss-798a94539838------2)
 - [Day 2 of 30 Days of Code at HackerRank](https://kishan-rai99693.medium.com/day-2-of-30-days-of-code-at-hackerrank-e2fa2d2912f2?source=rss-798a94539838------2)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishanrajput23&" alt="kishanrajput23" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TG922&" alt="TG922" /></p>
