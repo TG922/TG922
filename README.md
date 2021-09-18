@@ -38,9 +38,9 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="TG922" height="30" width="40" />
 </a>
 
-<!-- <a href="https://medium.com/@gaurtarun77">
+<a href="https://medium.com/@gaurtarun77">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="TG922" height="30" width="40" />
-</a>-->
+</a>
 
 <br />
 
