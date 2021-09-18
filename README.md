@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://www.linkedin.com/in/tg/">
+<a href="https://in.linkedin.com/in/tarun-gaur-0164571bb">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="TG922" height="30" width="40" />
 </a>
 <a href="https://twitter.com/tg">
@@ -32,13 +32,14 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="TG922" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/tg">
+<a href="https://instagram.com/gaurtarun98">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="TG922" height="30" width="40" />
 </a>
 
-<a href="https://TG922.github.io/">
+<!-- <a href="https://TG922.github.io/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="TG922" height="30" width="40" />
-</a>
+</a>-->
+
 <br />
 
 
