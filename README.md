@@ -79,8 +79,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me **456gaurtarun@gmail.com**
 
 <!--- ⚡ Fun fact **I think I am funny XD**-->
+
 - 💬 Ask me about **anything you want.**
-  
+
+- I write articles on Medium
 
 
 <!--<h3 align="left">Languages and Tools:</h3>
