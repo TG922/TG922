@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **anything you want.**
 
-- I write articles on Medium
+- 📝 I write articles on [Medium](https://TG922.medium.com)
 
 
 <!--<h3 align="left">Languages and Tools:</h3>
