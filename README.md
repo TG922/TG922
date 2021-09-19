@@ -107,16 +107,4 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TG922.TG922) -->
 
 
-
-
-
-
-
-
-### Blogs posts
-- [Introduction To Artificial Intelligence](https://kishan-rai99693.medium.com/introduction-to-artificial-intelligence-ab5caa846752?source=rss-798a94539838------2)
-- [Day 4 of 30 Days of Code at HackerRank](https://kishan-rai99693.medium.com/day-4-of-30-days-of-code-at-hackerrank-abaa125bbb14?source=rss-798a94539838------2)
-- [Day 3 of 30 Days of Code at HackerRank](https://kishan-rai99693.medium.com/day-3-of-30-days-of-code-at-hackerrank-1464a59d106b?source=rss-798a94539838------2)
-- [Day 2 of 30 Days of Code at HackerRank](https://kishan-rai99693.medium.com/day-2-of-30-days-of-code-at-hackerrank-e2fa2d2912f2?source=rss-798a94539838------2)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TG922&" alt="TG922" /></p>
