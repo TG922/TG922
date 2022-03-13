@@ -53,19 +53,16 @@ Here are some ideas to get you started:
 ### About Me 🚀
 🌱 I’m a Front end developer and currently learning reactjs. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+🤝 **GSSOC Participant** for _adding quality pull requests at Hacktober Fest 2021_ (October 2022)
 
 <br>
 
 ## 🏅 Achievements
 
 -   ⭐ **Global rank 91** at _Codechef May Long Challenge_ (May 2021)
--   🥇 **Winner of Robotronics-II Competition** at _PEC_ (February 2021)
--   ⭐ **AIR 3** at _CSIO-ISTC_ (July 2018)
+-   🥇 **Web Developer Quiz Winner** at Devfest India (October 2021)
 -   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2021_ (October 2021)
-
-<!-- -   🚁 **Mars 2020 Helicopter Mission Contributor** for contributing to _a library ([numpy](https://github.com/numpy/numpy)) used by NASA to fly the Ingenuity Helicopter on Mars_ (April 2021) -->
-<!-- -   🥈 **1st Runner up at Coding Competition** at
--   🥉 **2nd Runner up at Coding Competition** at -->
+-   🤝 **GWOC Participant** 3 Months Open source contribution conducted by Girlscript Foundation (Sept 2021 - Nov 2021)
 
 
 <h3 align="center">Familiar with</h3>
