@@ -108,6 +108,9 @@ Here are some ideas to get you started:
 
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TG922&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
   <img width="48%"   src="https://github-readme-streak-stats.herokuapp.com/?user=TG922&theme=ayu-light&hide_border=true&fire=DD2727" alt="TG922" />
   <img width="38%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TG922&layout=compact&langs_count=8&theme=ayu-light" />
 </p>
