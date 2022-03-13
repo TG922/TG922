@@ -140,4 +140,3 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TG922&repo=TG922.github.io&theme=buefy" />
 </a>
 
-<br />
