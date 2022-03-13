@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 -   ⭐ **Global rank 91** at _Codechef May Long Challenge_ (May 2021)
 -   🥇 **Web Developer Quiz Winner** at Devfest India (October 2021)
--   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2021_ (October 2021)
+-   🤝 **Hacktober Fest Participant** is a month long virtual festival event to celebrate open source contributions presented by Digital Ocean, Deepsource, Appwrite (October 2021)
 -   🤝 **GWOC Participant** 3 Months Open source contribution conducted by Girlscript Foundation (Sept 2021 - Nov 2021)
 
 
