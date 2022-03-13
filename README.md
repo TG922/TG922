@@ -128,3 +128,5 @@ Here are some ideas to get you started:
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TG922.TG922) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
