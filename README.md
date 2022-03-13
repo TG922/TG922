@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 ### About Me 🚀
 🌱 I’m a Front end developer and currently learning reactjs. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
-🤝 **GSSOC Participant** for _adding quality pull requests at Hacktober Fest 2021_ (October 2022)
+🤝 **GSSOC Participant** 3 Months Open source contribution conducted by Girlscript Foundation (March 2022 - Present)
+
 
 <br>
 
