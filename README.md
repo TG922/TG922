@@ -109,10 +109,10 @@ Here are some ideas to get you started:
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TG922&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=TG922&theme=ayu-light&hide_border=true&fire=DD2727" alt="TG922" />
+  <img width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TG922&layout=compact&langs_count=8&theme=ayu-light" height="180em" />
   <img width="30%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=TG922&color=0e75b6&style=flat&theme=ayu-light&hide_border=true" alt="TG922"/>
 </p>
 
-<img width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TG922&layout=compact&langs_count=8&theme=great-gatsby" height="180em" />
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TG922&theme=ayu-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
 
