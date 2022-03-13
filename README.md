@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TG922&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=TG922&theme=ayu-light&hide_border=true&fire=DD2727" alt="TG922" />
-  <img width="30%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=TG922&color=0e75b6&style=flat&theme=ayu-light&hide_border=true" alt="TG922"/>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=TG922&color=0e75b6&style=flat&theme=ayu-light&hide_border=true" alt="TG922"/>
 </p>
 
 
