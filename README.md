@@ -133,11 +133,11 @@ Here are some ideas to get you started:
 #### Top Repositories
 
 
-<a href="https://github.com/TG922/github-readme-stats">
+<a href="https://github.com/TG922">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TG922&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/TG922/TG922.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TG922&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TG922&repo=TG922.github.io&theme=buefy" />
 </a>
 
 <br />
