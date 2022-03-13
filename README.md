@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 
   ![TG922's GitHub stats](https://github-readme-stats.vercel.app/api?username=TG922&theme=buefy&show_icons=true)
 <p>
-  <img width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=TG922&theme=ayu-light&hide_border=true&fire=DD2727" alt="TG922" />
+  <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=TG922&theme=ayu-light&hide_border=true&fire=DD2727" alt="TG922" />
   <img width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TG922&layout=compact&langs_count=8&theme=buefy" />
 </p>
 
