@@ -62,9 +62,10 @@ Here are some ideas to get you started:
 -   🥇 **Winner of Robotronics-II Competition** at _PEC_ (February 2021)
 -   ⭐ **AIR 3** at _CSIO-ISTC_ (July 2018)
 -   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2021_ (October 2021)
+
 <!-- -   🚁 **Mars 2020 Helicopter Mission Contributor** for contributing to _a library ([numpy](https://github.com/numpy/numpy)) used by NASA to fly the Ingenuity Helicopter on Mars_ (April 2021) -->
-<!-- -   🥈 **1st Runner up at Coding Competition** at _Heritage Institute of Technology_ (September 2019)
--   🥉 **2nd Runner up at Coding Competition** at _GCECT_ (March 2019) -->
+<!-- -   🥈 **1st Runner up at Coding Competition** at
+-   🥉 **2nd Runner up at Coding Competition** at -->
 
 
 <h3 align="center">Familiar with</h3>
