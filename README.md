@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TG922.TG922) -->
 
 
-#### Top Repositories
+<!--#### Top Repositories
 
 <a href="https://github.com/TG922/TG922.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TG922&repo=TG922.github.io&theme=buefy" />
@@ -139,4 +139,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TG922&repo=Contributing-to-open-source&theme=buefy" />
 </a>
 
-
+-->
