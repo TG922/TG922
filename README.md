@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 🌱 I’m a Front end developer and currently learning reactjs </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things </br>
 👨‍💻 I enjoy contributing to **Open Source Projects**</br>
-🤝 **GSSOC Contributor** 3 Months Open source contribution conducted by _Girlscript Foundation_ (March 2022 - Present)
+🤝 **GSSOC Contributor** 3 Months Open source contribution program conducted by _Girlscript Foundation_ (March 2022 - Present)
 
 
 <br>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 -   ⭐ **3 Stars** at _Codechef_
 -   🥇 **Web Developer Quiz Winner** at _Devfest India_ conducted by **Google Developers Group Lucknow** (October 2021)
 -   🤝 **Hacktober Fest Participant** is a month long virtual festival event to celebrate open source contributions presented _by Digital Ocean, Deepsource, Appwrite_ (October 2021)
--   🤝 **GWOC Participant** 3 Months Open source contribution conducted by _Girlscript Foundation_ (Sept 2021 - Nov 2021)
+-   🤝 **GWOC Participant** 3 Months Open source contribution program conducted by _Girlscript Foundation_ (Sept 2021 - Nov 2021)
 
 
 <h3 align="center">Familiar with</h3>
