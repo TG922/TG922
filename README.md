@@ -120,6 +120,3 @@ Here are some ideas to get you started:
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TG922.TG922) -->
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TG922&" alt="TG922" /></p>
