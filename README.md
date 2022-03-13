@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ## 🏅 Achievements
 
 -   ⭐ **3 Stars** at _Codechef_
--   🥇 **Web Developer Quiz Winner** at _Devfest India_ (October 2021)
+-   🥇 **Web Developer Quiz Winner** at _Devfest India_ conducted by **Google Developers Group Lucknow** (October 2021)
 -   🤝 **Hacktober Fest Participant** is a month long virtual festival event to celebrate open source contributions presented _by Digital Ocean, Deepsource, Appwrite_ (October 2021)
 -   🤝 **GWOC Participant** 3 Months Open source contribution conducted by _Girlscript Foundation_ (Sept 2021 - Nov 2021)
 
