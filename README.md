@@ -60,10 +60,10 @@ Here are some ideas to get you started:
 
 ## 🏅 Achievements
 
--   ⭐ **Global rank 91** at _Codechef May Long Challenge_ (May 2021)
--   🥇 **Web Developer Quiz Winner** at Devfest India (October 2021)
--   🤝 **Hacktober Fest Participant** is a month long virtual festival event to celebrate open source contributions presented by Digital Ocean, Deepsource, Appwrite (October 2021)
--   🤝 **GWOC Participant** 3 Months Open source contribution conducted by Girlscript Foundation (Sept 2021 - Nov 2021)
+-   ⭐ **3 Stars** at _Codechef
+-   🥇 **Web Developer Quiz Winner** at _Devfest India (October 2021)
+-   🤝 **Hacktober Fest Participant** is a month long virtual festival event to celebrate open source contributions presented _by Digital Ocean, Deepsource, Appwrite (October 2021)
+-   🤝 **GWOC Participant** 3 Months Open source contribution conducted by _Girlscript Foundation (Sept 2021 - Nov 2021)
 
 
 <h3 align="center">Familiar with</h3>
