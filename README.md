@@ -134,10 +134,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/TG922/Contributing-to-open-source">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TG922&repo=Contributing-to-open-source&theme=buefy" />
+  <img align="center" width="48% src="https://github-readme-stats.vercel.app/api/pin/?username=TG922&repo=Contributing-to-open-source&theme=buefy" />
 </a>
 <a href="https://github.com/TG922/TG922.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TG922&repo=TG922.github.io&theme=buefy" />
+  <img align="center" width="48% src="https://github-readme-stats.vercel.app/api/pin/?username=TG922&repo=TG922.github.io&theme=buefy" />
 </a>
 
 <br />
