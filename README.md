@@ -6,6 +6,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TG922&label=Profile%20views&color=129e00&style=plastic" alt="TG922" /> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/TG922/TG922/blob/main/Images/Working.gif">
 
+
+
+
+[![visits](https://github-visit-counter.herokuapp.com/TG922/Contributing-to-open-source/visits.svg)](#)
+
+[![GitHub issues by-label](https://img.shields.io/github/issues/badges/shields/good%20first%20issue)](https://github.com/TG922/Contributing-to-open-source/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22+) <!--https://github.com/TG922/Contributing-to-open-source/issues-->
+<!--https://github.com/TG922/Contributing-to-open-source/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22-->
+
+![Custom badge](https://img.shields.io/endpoint?color=yellow&label=Private%20Repo%20Counts&style=plastic&url=https%3A%2F%2Fgithub.com%2FTG922%3Ftab%3Drepositories)
+
+[![Custom badge Repo Counts](https://img.shields.io/badge/Private%20Repositories-10%20Repo-blueviolet)](https://github.com/TG922?tab=repositories)
+
+
+
+
 <!--
 **TG922/TG922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
