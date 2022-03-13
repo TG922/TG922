@@ -128,3 +128,16 @@ Here are some ideas to get you started:
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TG922.TG922) -->
+
+
+#### Top Repositories
+
+
+<a href="https://github.com/TG922/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TG922&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/TG922/TG922.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TG922&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
