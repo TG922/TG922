@@ -10,20 +10,6 @@
 [![TG922 Private Repo Counts](https://img.shields.io/badge/Private%20Repositories-7-blueviolet)](https://github.com/TG922?tab=repositories) <!--https://github.com/TG922/Contributing-to-open-source/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22-->[![Forked Repo](https://img.shields.io/badge/Forked%20Repositories-9-red)](https://github.com/TG922?tab=repositories)
 
 
-<!--
-**TG922/TG922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <a href="https://in.linkedin.com/in/tarun-gaur-0164571bb">
@@ -95,11 +81,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **456gaurtarun@gmail.com**
 
-<!--- ⚡ Fun fact **I think I am funny XD**-->
 
 - 💬 Ask me about **anything you want.**
 
-<!-- - 📝 I write some articles on [Medium](https://TG922.medium.com)-->
 
 
   ![TG922's GitHub stats](https://github-readme-stats.vercel.app/api?username=TG922&theme=buefy&show_icons=true)
