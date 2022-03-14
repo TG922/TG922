@@ -114,12 +114,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TG922&theme=ayu-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
-<!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TG922&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">-->
-<!--<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>-->
-<!--![TG922 stats](https://github-readme-stats.vercel.app/api?username=TG922&theme=dark&show_icons=true)-->
+
 
 
 <!-- ### 📕 Blog Posts
