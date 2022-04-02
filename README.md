@@ -82,7 +82,7 @@
 - 📫 How to reach me **456gaurtarun@gmail.com**
 
 
-- 💬 Ask me about **anything you want related to Front End Web Development,Python,Open-Source.**
+- 💬 Ask me about **anything you want related to _Front End Web Development,Python,Open-Source._**
 
 
 
