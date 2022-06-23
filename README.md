@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/TG922/TG922/blob/main/Images/Working.gif">
 
 
-[![TG922 Private Repo Counts](https://img.shields.io/badge/Private%20Repositories-7-blueviolet)](https://github.com/TG922/private-repo4) <!--https://github.com/TG922/Contributing-to-open-source/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22-->[![Forked Repo](https://img.shields.io/badge/Forked%20Repositories-25-red)](https://github.com/TG922?tab=repositories&q=&type=fork&language=&sort=)
+[![TG922 Private Repo Counts](https://img.shields.io/badge/Private%20Repositories-7-blueviolet)](https://github.com/TG922/private-repo4) <!--https://github.com/TG922/Contributing-to-open-source/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22-->[![Forked Repo](https://img.shields.io/badge/Forked%20Repositories-94-red)](https://github.com/TG922?tab=repositories&q=&type=fork&language=&sort=)
 
 
 
