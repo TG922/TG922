@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://TG922.github.io)-->
 
-## Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Tarun Gaur!](https://www.linkedin.com/in/tarun-gaur-0164571bb) 
+## Hey There :wave:, I'm [Tarun Gaur!](https://www.linkedin.com/in/tarun-gaur-0164571bb) 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TG922&label=Profile%20views&color=129e00&style=plastic" alt="TG922" /> </p>
