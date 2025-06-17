@@ -45,11 +45,12 @@
 <br>
 
 ## 🏅 Achievements
-
+-   🥉 **Team Leader And Runner-up Grand Finale** I led my team to the Smart India Hackathon Grand Finale conducted at Sikkim Manipal Institute of Technology and also guided team to win an internal hackathon under the Ministry of External Affairs for Software Edition.
+-   🤝 **GSSOC Contributor** Contributing to GSSOC has been a rewarding experience, allowing me to enhance my skills while giving back to open source communities. I am grateful for the opportunity to collaborate, learn, and make meaningful contributions.
 -   ⭐ **3 Stars** at _Codechef_
 -   🥇 **Web Developer Quiz Winner** at _Devfest India_ conducted by **Google Developers Group** (October 2021)
--   🥉 **Represented as Best Team of our College** during e-boothathon conducted by **AKTU in association with IIT Kanpur** for developing virtual lab experiment, to overcome practical lab studies during covid-19
--   🤝 **GWOC Participant** 3 Months Open source contribution program conducted by _Girlscript Foundation_ (Sept 2021 - Nov 2021)
+-   🥉 **Represented as Best Team of our College** during e-boothathon conducted by **AKTU in association with IIT Kanpur** for developing virtual lab simulator, to overcome practical lab studies affected during Covid-19
+-   🤝 **GWOC Contributor** 3 Months Open source contribution program conducted by _Girlscript Foundation_ (Sept 2021 - Nov 2021)
 
 <!-- -   🤝 **Hacktober Fest Participant** is a month long virtual festival event to celebrate open source contributions presented _by Digital Ocean, Intel, Deepsource, Appwrite_ (October 2021) -->
 
