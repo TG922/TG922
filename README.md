@@ -37,9 +37,8 @@
 
 ### About Me 🚀
 🌱 I’m a Front end developer and currently learning reactjs </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things </br>
+👨‍💻 I am passionate about Web Dev & I enjoy learning new things </br>
 👨‍💻 I enjoy contributing to **Open Source Projects**</br>
-🤝 **GSSOC Contributor** 3 Months Open source contribution program conducted by _Girlscript Foundation_ (March 2022 - Present)
 
 
 <br>
