@@ -32,7 +32,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="TG922" height="30" width="40" />
 </a>
 
-<!--br />
+<!--br /-->
 
 -------------
 ### About Me 🚀
