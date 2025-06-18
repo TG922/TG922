@@ -34,7 +34,7 @@
 
 <br />
 
-
+-------------
 ### About Me 🚀
 🌱 I’m a Front end developer and currently learning reactjs </br>
 👨‍💻 I am passionate about Web Dev & I enjoy learning new things </br>
