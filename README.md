@@ -43,6 +43,7 @@
 
 <br>
 
+-------------
 ## 🏅 Achievements
 -   🥉 **Smart India Hackathon Team Leader And Runner-up Grand Finale** I led my team to the Smart India Hackathon Grand Finale conducted at Sikkim Manipal Institute of Technology and also guided team to win an internal hackathon under the Ministry of External Affairs for Software Edition.
 -   🤝 **GSSOC Contributor** Contributing to GSSOC has been a rewarding experience, allowing me to enhance my skills while giving back to open source communities. I am grateful for the opportunity to collaborate, learn, and make meaningful contributions.
