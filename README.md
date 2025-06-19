@@ -88,6 +88,7 @@
   <img width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TG922&layout=compact&langs_count=8&theme=buefy" />
 </p>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TG922.TG922) -->
 
 <br></br>
 
